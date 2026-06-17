@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ------------------------------------------------------------
+# thesis project: proprietary data and generated outputs
+# ------------------------------------------------------------
+
+data/raw/
+data/processed/
+data/results/
+data/secondary_eval/
+secondary_eval/
+validation_tests/
+
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+
+*.key
+*.pem
+
+.DS_Store
