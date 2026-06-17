@@ -6,6 +6,8 @@ This repository contains the Python code used for the master's thesis:
 
 The project compares hierarchical, cluster-based, and classical portfolio optimization strategies in long-only ETF portfolios. The implemented strategies include equal weighting, maximum Sharpe ratio optimization, minimum-variance optimization, equal risk contribution, a Bayesian Data-and-Model CAPM specification, hierarchical risk parity, and nested clustered optimization.
 
+The thesis PDF is available as a downloadable asset under the repository's **Releases** section.
+
 ## Data availability
 
 The original thesis analysis used market data sourced through the Refinitiv Eikon Data Library API.
